@@ -1,0 +1,15 @@
+{
+  "name": "el-nuevo-dia",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Diego Malavera",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=./index.html"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
