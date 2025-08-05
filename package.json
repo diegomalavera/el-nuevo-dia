@@ -10,6 +10,7 @@
     "dev": "live-server --port=3000 --open=./index.html"
   },
   "dependencies": {
-    "live-server": "^1.2.2"
+    "live-server": "^1.2.2",
+    "sharp": "^0.34.3"
   }
 }
